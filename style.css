@@ -1,0 +1,32 @@
+.text-blue {
+  color:blue;
+}
+div {
+  background: black;
+  color: white;
+  
+}
+div {
+}
+.text-azure{
+  color: azure !important;
+
+}
+/* Extra Large (xl) */
+@media (max-width: 1280px) { 
+ html {
+  background: #fefefe;
+ }
+}
+
+@media (max-width: 480px) { 
+  html {
+   background: #b37272;
+  }
+ }
+
+ @media (max-width: 700px) { 
+  html {
+   background: #b37272;
+  }
+ }
